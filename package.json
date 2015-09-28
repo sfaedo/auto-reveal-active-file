@@ -1,13 +1,10 @@
 {
   "name": "auto-reveal-active-file",
   "main": "./lib/auto-reveal-active-file",
-  "version": "0.1.0",
-  "description": "Auto reveal the current active file in the tree view on Atom editor",
+  "version": "0.2.0",
+  "description": "Auto reveal the current active file in the tree view",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "auto-reveal-active-file:toggle"
-  },
   "repository": "https://github.com/sfaedo/auto-reveal-active-file",
   "license": "MIT",
   "engines": {
